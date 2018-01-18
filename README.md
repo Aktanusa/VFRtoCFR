@@ -15,8 +15,12 @@ dropped	If true, it will throws an error if there are frames dropped in the conv
 
 Changelog:
 
+2018/01/18:
+	- Minor text change
+	- Compiled 64-bit DLL
+
 2012/07/30:
-	-Rewrote the whole algorithm to be a lot smarter
+	- Rewrote the whole algorithm to be a lot smarter
 
 2012/05/28:
 	- Initial release
